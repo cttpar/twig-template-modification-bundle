@@ -1,5 +1,5 @@
 {
-    "name": "cttpar/twig-template-modification-bundle",
+    "name": "maba/twig-template-modification-bundle",
     "description": "Bundle to Mass-Modify Twig Templates by maba",
     "keywords": ["twig", "mass-edit", "mass-replace", "find-replace", "mass-modify", "modification", "templates"],
     "license": "MIT",
